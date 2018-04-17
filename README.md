@@ -28,6 +28,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Steps
 npm install --save @ng-bootstrap/ng-bootstrap font-awesome
+
 npm install --save-dev bootstrap
 
 .angular-cli.json:
